@@ -2,8 +2,8 @@
 // Project 		LCD - Simple demonstration using custom LCD library (Embedded C)
 // Target 		ATMEL ATmega2560 micro-controller and 1602A LCD (as supplied in the HBV sensors kit)
 // Program		LCD_1602A_FixedMessage_PortsAG_2560_C.c
-// Author		Richard Anthony
-// Date			16th October 2016
+// Author		Yasin Yari
+// Date			16th November 2019
 
 // Function		Displays the entire character set on the upper row of the LCD
 //				Displays a fixed string on the lower row of the LCD
