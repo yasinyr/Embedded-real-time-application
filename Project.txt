@@ -1,4 +1,4 @@
-//*********************************************************************************************************************
+//*******************************************************************************************************************
 // Project 		LCD - Simple demonstration using custom LCD library (Embedded C)
 // Target 		ATMEL ATmega2560 micro-controller and 1602A LCD (as supplied in the HBV sensors kit)
 // Program		LCD_1602A_FixedMessage_PortsAG_2560_C.c
