@@ -5,6 +5,7 @@
 // Author		Yasin Yari
 // Date			16th November 2019
 
+
 // Function		Displays the entire character set on the upper row of the LCD
 //				Displays a fixed string on the lower row of the LCD
 
